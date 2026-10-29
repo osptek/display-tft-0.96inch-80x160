@@ -1,0 +1,10 @@
+id: YDP096B002-V1C0
+category: displays
+size: "0.96"
+panel: tft
+resolution: 80x160
+interface: [spi]
+driver: ST7735P3
+touch: null
+outline: 13.5 x 27.95 x 1.46 mm
+active_area: 10.8 x 21.7 mm
